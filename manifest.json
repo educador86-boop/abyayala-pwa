@@ -1,36 +1,36 @@
 {
   "name": "Abya Yala - La Otra Historia",
-  "short_name": "Abya Yala",
-  "start_url": "https://abyayalahistoria.blogspot.com/",
-  "display": "standalone",
-  "background_color": "#f0f4e3",
-  "theme_color": "#8b0000",
-  "icons": [
+  "nombre_corto": "Abya Yala",
+  "url_inicio": "https://abyayalahistoria.blogspot.com/",
+  "mostrar": "independiente",
+  "color_fondo": "#f0f4e3",
+  "color_tema": "#8b0000",
+  "iconos": [
     {
       "src": "https://educador86-boop.github.io/abyayala-pwa/logo-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "tamaños": "192x192",
+      "tipo": "imagen/png",
+      "propósito": "cualquier enmascarable"
     },
     {
       "src": "https://educador86-boop.github.io/abyayala-pwa/logo-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "tamaños": "512x512",
+      "tipo": "imagen/png",
+      "propósito": "cualquier enmascarable"
     }
   ],
-  "screenshots": [
+  "capturas de pantalla": [
     {
       "src": "https://educador86-boop.github.io/abyayala-pwa/screenshot-mobile.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow"
+      "tamaños": "1080x1920",
+      "tipo": "imagen/png",
+      "factor_formulario": "estrecho"
     },
     {
       "src": "https://educador86-boop.github.io/abyayala-pwa/screenshot-desktop.png",
-      "sizes": "1920x1080",
-      "type": "image/png",
-      "form_factor": "wide"
+      "tamaños": „1920x1080",
+      "tipo": "imagen/png",
+      "factor_formulario": "ancho"
     }
   ]
 }
