@@ -1,20 +1,21 @@
 {
   "nombre": "Abya Yala - La Otra Historia",
   "nombre_corto": "Abya Yala",
-  "url_inicio": "https://abyayalahistoria.blogspot.com/",
+  "url_inicio": "https://abyayalahistoria.blogspot.com/", 
   "mostrar": "independiente",
   "color_fondo": "#f0f4e3",
   "color_tema": "#8b0000",
   "iconos": [
     {
-      "src": "logotipo-192.png",
+      "src": "https://educador86-boop.github.io/abyayala-pwa/logo-192.png",
       "tamaños": "192x192",
       "tipo": "imagen/png"
     },
     {
-      "src": "logotipo-512.png",
+      "src": "https://educador86-boop.github.io/abyayala-pwa/logo-512.png",
       "tamaños": "512x512",
       "tipo": "imagen/png"
     }
   ]
+}
 }
