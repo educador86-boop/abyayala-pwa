@@ -7,12 +7,12 @@
   "color_tema": "#8b0000",
   "iconos": [
     {
-      "src": "https://TU_URL_EXTERNA/logo-192.png",
+      "src": "logotipo-192.png",
       "tamaños": "192x192",
       "tipo": "imagen/png"
     },
     {
-      "src": "https://TU_URL_EXTERNA/logo-512.png",
+      "src": "logotipo-512.png",
       "tamaños": "512x512",
       "tipo": "imagen/png"
     }
