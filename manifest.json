@@ -1,0 +1,20 @@
+{
+  "nombre": "Abya Yala - La Otra Historia",
+  "nombre_corto": "Abya Yala",
+  "url_inicio": "https://abyayalahistoria.blogspot.com/",
+  "mostrar": "independiente",
+  "color_fondo": "#f0f4e3",
+  "color_tema": "#8b0000",
+  "iconos": [
+    {
+      "src": "https://TU_URL_EXTERNA/logo-192.png",
+      "tamaños": "192x192",
+      "tipo": "imagen/png"
+    },
+    {
+      "src": "https://TU_URL_EXTERNA/logo-512.png",
+      "tamaños": "512x512",
+      "tipo": "imagen/png"
+    }
+  ]
+}
